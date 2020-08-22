@@ -1,0 +1,11 @@
+ Students typically spend 3 - 5 Hours
+
+For this project, you will use Domino and work through a series of exercises using Spark SQL. The purpose of this project is to help you familiarize yourself with the Spark SQL interface, which scales easily, making it great for working with huge datasets. However, because we don’t want you to have to worry about changing your SQL queries, the dataset you will be working with is not very large. 
+
+Project steps:
+
+Open up your Domino account
+Navigate to the file titled 'aic-5_6_6-sql-at-scale-with-spark-mini-project'
+Complete the assignment
+Make sure that your project is public by going into Settings, clicking on Access & Sharing, and changing your project to public if it is currently set as private
+Submit a link to your project here 
